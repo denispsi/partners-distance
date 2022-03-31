@@ -2,6 +2,7 @@
 List of partners with the names and partners ids within range of 100 km., sorted by Partner ID(ascending).
 
 Output:
+
 ┌─────────┬────────────────────────────┬────────────┐
 │ (index) │            name            │ partner_id │
 ├─────────┼────────────────────────────┼────────────┤
