@@ -1,0 +1,15 @@
+{
+    "name": "partners-distance",
+    "version": "1.0.0",
+    "description": "Invite partners.",
+    "main": "partners.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Denis Stoynev",
+    "license": "ISC",
+    "dependencies": {
+        "airtable": "^0.11.3",
+        "node-fetch": "^3.2.3"
+    }
+}
